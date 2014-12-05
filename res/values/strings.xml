@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PullToRefresh</string>
+    <string name="hello_world">hello world</string>
+    <string name="app_list_header_refresh_down">pull to refresh</string>
+    <string name="app_list_header_refresh_last_update">last update at: %s </string>
+    <string name="app_list_footer_more">更多</string>
+    <string name="app_list_footer_loading">正在加载</string>
+    
+</resources>
